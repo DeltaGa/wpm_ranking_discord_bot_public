@@ -147,7 +147,7 @@ We may disclose your information only in these specific circumstances:
 ## International Data Transfers
 
 ### Data Location
-- **Primary Storage**: Data stored on servers in [Your Jurisdiction]
+- **Primary Storage**: Data stored on servers in Canada
 - **Backup Locations**: Encrypted backups may be stored in other jurisdictions
 - **Processing Location**: AI processing occurs locally on our infrastructure
 - **No Cloud AI**: No data sent to external AI services (Google, OpenAI, etc.)
@@ -220,7 +220,7 @@ We may disclose your information only in these specific circumstances:
 
 ### Privacy Officer
 - **Primary Contact**: Use `/feedback` command for privacy inquiries
-- **Email Contact**: [Your Email Address]
+- **Email Contact**: dev.github.tkjoramsmith@outlook.com
 - **Response Time**: Privacy inquiries answered within 7 business days
 - **Escalation**: Unresolved issues escalated to senior management
 
@@ -228,7 +228,7 @@ We may disclose your information only in these specific circumstances:
 Users in certain jurisdictions have the right to file complaints with their local data protection authority regarding our privacy practices.
 
 ### Legal Information
-- **Governing Law**: This Privacy Policy governed by [Your Jurisdiction] law
+- **Governing Law**: This Privacy Policy governed by the laws of Canada
 - **Dispute Resolution**: Disputes resolved through binding arbitration
 - **Severability**: Invalid provisions do not affect remainder of policy
 - **Entire Agreement**: This policy constitutes entire privacy agreement
@@ -236,7 +236,9 @@ Users in certain jurisdictions have the right to file complaints with their loca
 ---
 
 **Effective Date:** June 26, 2025  
-**Last Updated:** June 26, 2025
+**Last Updated:** June 26, 2025  
 **Policy Version:** 2.0
 
-*This Privacy Policy is designed to protect your privacy while enabling the advanced features of our AI-powered reading improvement system. We are committed to transparency and protecting your personal information.*
+---
+
+© 2026 DeltaGa. All rights reserved.

@@ -242,7 +242,7 @@ You may terminate your use by:
 ## Governing Law and Dispute Resolution
 
 ### Governing Law
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+These Terms are governed by and construed in accordance with the laws of Canada, without regard to its conflict of law provisions.
 
 ### Dispute Resolution
 - **Informal Resolution**: Disputes should first be addressed through `/feedback` command
@@ -251,7 +251,7 @@ These Terms are governed by and construed in accordance with the laws of [Your J
 - **Individual Claims**: All claims must be brought individually
 
 ### Jurisdiction
-Any legal proceedings must be brought in the courts of [Your Jurisdiction], and you consent to the jurisdiction of such courts.
+Any legal proceedings must be brought in the courts of Canada, and you consent to the jurisdiction of such courts.
 
 ## Modification of Terms
 
@@ -290,23 +290,28 @@ Provisions that by their nature should survive termination shall survive, includ
 
 ### Support and Legal Inquiries
 - **Primary Contact**: Use `/feedback` command within the Bot
-- **Email Contact**: [Your Email Address]
+- **Email Contact**: dev.github.tkjoramsmith@outlook.com
 - **Response Time**: Legal inquiries answered within 10 business days
-- **Business Address**: [Your Business Address]
+- **Jurisdiction**: Canada
 
 ### Legal Notices
-- **Service of Process**: [Legal Service Address]
-- **Business Registration**: [Business Registration Information]
-- **Licensing Information**: [Relevant License Numbers]
+- **Service of Process**: dev.github.tkjoramsmith@outlook.com
+- **Operator**: Tchicdje Kouojip Joram Smith (DeltaGa), an individual, non-commercial project
+- **Business Registration**: Not applicable
+- **Licensing Information**: Not applicable
 
 ---
 
 **Effective Date:** June 26, 2025  
-**Last Updated:** June 26, 2025
+**Last Updated:** June 26, 2025  
 **Terms Version:** 2.0
 
-*By using the Advanced WPM Ranking Discord Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. These Terms are designed to protect both users and service operators while enabling an advanced AI-powered reading improvement experience.*
+By using the WPM Ranking Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
 
 ---
 
-**IMPORTANT LEGAL NOTICE**: This document is intended to provide legal protection but should be reviewed by qualified legal counsel familiar with your jurisdiction's laws before implementation. Laws vary by location and may require specific provisions not included in this template.
+**Legal Notice:** This document should be reviewed by qualified legal counsel familiar with your jurisdiction before use. Laws vary by location and may require provisions not included here. Bracketed fields must be completed before publication.
+
+---
+
+© 2026 DeltaGa. All rights reserved.
